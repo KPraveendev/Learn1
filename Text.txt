@@ -1,0 +1,2 @@
+First line of code to learn how to commit the code in GitHub repository.
+This is second line.
